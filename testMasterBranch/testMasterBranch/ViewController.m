@@ -20,7 +20,7 @@
     [self test];
 }
 -(void)test{
-    
+    NSLog(@"%@",@"meiyounideriziliwogaizenyangmianduizidizi");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
