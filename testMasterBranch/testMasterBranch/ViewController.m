@@ -21,6 +21,8 @@
 }
 -(void)test{
     NSLog(@"%@",@"meiyounideriziliwogaizenyangmianduizidizi");
+    NSLog(@"%@",@"咱们这是在哪啊");
+    NSLog(@"%@",@"快回来啊");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
