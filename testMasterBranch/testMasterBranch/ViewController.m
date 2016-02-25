@@ -23,6 +23,7 @@
     NSLog(@"%@",@"meiyounideriziliwogaizenyangmianduizidizi");
     NSLog(@"%@",@"咱们这是在哪啊");
     NSLog(@"%@",@"快回来啊");
+    NSLog(@"%@",@"测试第二次");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
